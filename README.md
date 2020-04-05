@@ -1,6 +1,6 @@
 # My solutions to select [HackerRank](https://www.hackerrank.com/) challenges
 
-## Updated daily!
+## Updated daily :alarm_clock:
 
 ### 1. Warm-up challenges
 
