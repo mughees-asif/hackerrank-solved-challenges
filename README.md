@@ -1,4 +1,4 @@
-# My solutions to select Hackerrank challenges
+# My solutions to select [HackerRank](https://www.hackerrank.com/) challenges
 
 ## Updated daily!
 
