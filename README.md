@@ -2,7 +2,7 @@
 
 ## Updated daily!
 
-### 1. Warm-up challeneges
+### 1. Warm-up challenges
 
 | Challenge  | Solution |
 | ------------- | ------------- |
