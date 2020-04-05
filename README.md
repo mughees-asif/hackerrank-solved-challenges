@@ -25,5 +25,5 @@ Everyone is more than welcome to contribute to the solutions. Follow the instruc
 
 5. Initiate a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
-6. I will review it and if applicable, merge the pull request. 
+6. I will review it and, if applicable, merge the pull request. 
 
