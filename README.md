@@ -6,10 +6,10 @@
 
 | Challenge  | Solution |  Difficulty Level  |
 | ------------- | ------------- |------------- |
-|  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_circle:Easy  |
-| [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/Staircase/src/com/mughees/Main.java)  |  :green_circle:Easy  |
-| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/plusMinus/src/com/mughees/Main.java)  |  :green_circle:Easy  |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/BirthdayCakeCandles/src/com/mughees/Main.java)  |  :green_circle:Easy  |
+|  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_circle: Easy  |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/Staircase/src/com/mughees/Main.java)  |  :green_circle: Easy  |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/plusMinus/src/com/mughees/Main.java)  |  :green_circle: Easy  |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/warmup/BirthdayCakeCandles/src/com/mughees/Main.java)  |  :green_circle: Easy  |
 
 ----------------------------------------------------------------------------------------------
 
