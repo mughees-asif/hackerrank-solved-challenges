@@ -16,13 +16,13 @@ If running locally, then:
 
 * change directory ```cd hackerrank-solved-challenges``` 
 
-* Run ```Main.java``` with your java compiler or run the ```main``` method in ```Main.java``` if using an IDE.
+* Run ```Main.java``` with your Java compiler or run the ```main``` method in ```Main.java``` if using an IDE.
 
 ----------------------------------------------------------------------------------------------
 
 ## Contributing
 
-Everyone is more than welcome to contribute to the solutions. Follow the instructions below to get started.
+Everyone is more than welcome to contribute to the solutions.
 
 ### Set-up for [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows):
 1. From the main menu, choose VCS | Get from Version Control, or, if no project is currently opened, click Get from Version Control on the Welcome screen.
