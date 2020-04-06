@@ -37,7 +37,7 @@ Everyone is more than welcome to contribute to the solutions. Follow the instruc
 
 6. I will review it and, if applicable, merge the pull request. 
 
-````````````````````````````````````````````````````````````````````````````````````````````````
+----------------------------------------------------------------------------------------------
 
 ### 1. Warm-up challenges
 
