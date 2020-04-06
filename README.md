@@ -6,7 +6,7 @@
 
 A [HackerRank](https://www.hackerrank.com/) account is recommended to save progress and solutions on the platform. Otherwise, a guest account is also available on HackerRank to run the code.
 
-## Running the code
+## Running the code 
 
 Simply copy, paste and run the code if running on HackerRank.
 
