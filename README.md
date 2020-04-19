@@ -42,7 +42,7 @@ Everyone is more than welcome to contribute to the solutions.
 ### 1. Algorithm challenges
 
 | Challenge  | Status |  Difficulty Level  |  Topic  |
-| ------------- | ------------- |------------- |
+| ------------- | ------------- |------------- | ------------- |
 |  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Staircase/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/plusMinus/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
