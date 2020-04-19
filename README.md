@@ -49,5 +49,5 @@ Everyone is more than welcome to contribute to the solutions.
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayCakeCandles/src/com/mughees/Main.java)  |  :green_book: Easy  |
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AppleandOrange/src/com/mughees/Main.java)  |  :green_book: Easy  |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Kangaroo/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| Compare The Triplets(https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |
 
