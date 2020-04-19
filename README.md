@@ -40,16 +40,16 @@ Everyone is more than welcome to contribute to the solutions.
 ----------------------------------------------------------------------------------------------
 
 ### 1. Algorithm challenges
-<center>
 
-| Challenge  | Status |  Difficulty Level  |
+| Challenge  | Status |  Difficulty Level  |  Topic  |
 | ------------- | ------------- |------------- |
-|  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Staircase/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/plusMinus/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayCakeCandles/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AppleandOrange/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Kangaroo/src/com/mughees/Main.java)  |  :green_book: Easy  |
-| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |
+|  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Staircase/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/plusMinus/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayCakeCandles/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AppleandOrange/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Kangaroo/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |  Lists |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: Easy  |  Lists |
 
-</center>
