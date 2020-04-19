@@ -40,6 +40,7 @@ Everyone is more than welcome to contribute to the solutions.
 ----------------------------------------------------------------------------------------------
 
 ### 1. Algorithm challenges
+<center>
 
 | Challenge  | Solution |  Difficulty Level  |
 | ------------- | ------------- |------------- |
@@ -51,3 +52,4 @@ Everyone is more than welcome to contribute to the solutions.
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Kangaroo/src/com/mughees/Main.java)  |  :green_book: Easy  |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |
 
+</center>
