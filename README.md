@@ -55,9 +55,9 @@ Everyone is more than welcome to contribute to the solutions.
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
-|  [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
-|  [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut2/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
-|  [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/IntToString/src/com/mughees/Main.java)  |  :green_book: Easy  |  toString() |
+|  [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
+|  [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut2/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
+|  [Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/IntToString/src/com/mughees/Main.java)  |  :green_book: Easy  |  toString() |
 
 
 
