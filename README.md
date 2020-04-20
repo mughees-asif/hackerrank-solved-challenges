@@ -52,3 +52,11 @@ Everyone is more than welcome to contribute to the solutions.
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |  Lists  |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays |
 
+### 2. Java practise
+| Challenge  | Status |  Difficulty Level  |  Topic  |
+| ------------- | ------------- |------------- | ------------- |
+|  [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
+|  [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut2/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class  |
+
+
+
