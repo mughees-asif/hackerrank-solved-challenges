@@ -1,4 +1,4 @@
-# Solutions for select [HackerRank](https://www.hackerrank.com/mughees460) challenges
+# Solutions for select [HackerRank](https://www.hackerrank.com/mughees_asif) challenges
 
 ## Updated daily :alarm_clock:
 
