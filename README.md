@@ -25,11 +25,12 @@ If running locally, then:
 Everyone is more than welcome to contribute to the solutions.
 
 ### Set-up for [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows):
-1. From the main menu, choose VCS | Get from Version Control, or, if no project is currently opened, click Get from Version Control on the Welcome screen.
 
-2. In the Get from Version Control dialog, specify the URL of the remote repository you want to clone (you can click Test to make sure that connection to the remote can be established), or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
+1. From the main menu, choose <kbd>VCS | Get from Version Control</kbd> > <kbd>Git</kbd> > <kbd>Clone</kbd> > ```https://github.com/mughees-asif/hackerrank-solutions.git```(click Test to make sure that connection to the remote can be established).
 
-3. Click Clone. If you want to create a IntelliJ IDEA project based on the sources you have cloned, click Yes in the confirmation dialog. Git root mapping will be automatically set to the project root directory.
+2. If no project is currently opened, click <kbd>Get from Version Control</kbd> on the Welcome screen. In the Get from Version Control dialog, specify the URL of the repository ```https://github.com/mughees-asif/hackerrank-solutions.git``` (click Test to make sure that connection to the remote can be established), or select one of the VCS hosting services on the left. If you are already logged in to the selected hosting service, completion will suggest the list of available repositories that you can clone.
+
+3. Git root mapping will be automatically set to the project root directory.
 
 4. Optimise or add a different approach to the same solution.
 
