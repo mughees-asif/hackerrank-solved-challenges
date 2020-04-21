@@ -52,6 +52,8 @@ Everyone is more than welcome to contribute to the solutions.
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Kangaroo/src/com/mughees/Main.java)  |  :green_book: Easy  |  Logic  |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |  Lists  |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GradingStudents/src/com/mughees/Main.java)  |  :green_book: Easy  |  Logic  |
+
 
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
@@ -61,7 +63,3 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/IntToString/src/com/mughees/Main.java)  |  :green_book: Easy  |  toString() |
 |  [Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/LoopsI/src/com/mughees/Main.java)  |  :green_book: Easy  |  For loop |
 |  [Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/LoopsII/src/com/mughees/Main.java)  |  :green_book: Easy  |  For loop |
-
-
-
-
