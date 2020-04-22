@@ -1,4 +1,8 @@
-# Solutions for select [HackerRank](https://www.hackerrank.com/mughees_asif) challenges
+<p align="center">
+    <a href="https://www.hackerrank.com/mughees_asif">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
 
 ## Updated daily :alarm_clock:
 
