@@ -10,7 +10,7 @@
 
 A [HackerRank](https://www.hackerrank.com/) account is recommended to save progress and solutions on the platform. Otherwise, a guest account is also available on HackerRank to run the code.
 
-## Running the code 
+### Running the code 
 
 Simply copy, paste and run the code if running on HackerRank.
 
@@ -71,3 +71,4 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/JavaDatatypes/src/com/mughees/Main.java)  |  :green_book: Easy  |  Primitive datatypes |
 |  [End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/JavaEndofFile/src/com/mughees/Main.java)  |  :green_book: Easy  |  Scanner class |
 |  [Output formatter](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/OutputFormatting/src/com/mughees/Main.java)  |  :green_book: Easy  |  printf() method |
+|  [Strings](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/StringsIntroduction/src/com/mughees/Main.java)  |  :green_book: Easy  |  Strings |
