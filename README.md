@@ -57,6 +57,7 @@ Everyone is more than welcome to contribute to the solutions.
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CompareTheTriplets/src/com/mughees/Main.java)  |  :green_book: Easy  |  Lists  |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GradingStudents/src/com/mughees/Main.java)  |  :green_book: Easy  |  Logic  |
+| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BreakingRecords/src/com/mughees/Main.java)  |  :green_book: Easy  |  Arrays  |
 
 
 ### 2. Java practise
