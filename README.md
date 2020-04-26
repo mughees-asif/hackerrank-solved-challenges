@@ -45,7 +45,7 @@ Everyone is more than welcome to contribute to the solutions.
 ----------------------------------------------------------------------------------------------
 ## Key
 
-| Symbol  | Difficulty level |  
+| Symbol  | Difficulty Level |  
 | ------------- | -------------
 | :green_book: | Easy |
 | :orange_book: | Medium |
