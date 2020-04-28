@@ -43,6 +43,12 @@ Everyone is more than welcome to contribute to the solutions.
 6. I will review it and, if applicable, merge the pull request. 
 
 ----------------------------------------------------------------------------------------------
+
+## Algorithms and Data Structures
+
+* Implementations of algortihms and data structures in Java: click <a href="https://github.com/mughees-asif/java-algorithms-datastructures">here</a>!
+
+----------------------------------------------------------------------------------------------
 ## Key
 
 | Symbol  | Difficulty Level |  
@@ -65,9 +71,7 @@ Everyone is more than welcome to contribute to the solutions.
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: |  Arrays |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GradingStudents/src/com/mughees/Main.java)  |  :green_book: |  Logic  |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BreakingRecords/src/com/mughees/Main.java)  |  :green_book: |  Arrays  |
-|  FizzBuzz | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/FizzBuzz/src/com/mughees/Main.java) | :green_book: |  Logic  |
-
-
+|  FizzBuzz | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FizzBuzz/src/com/mughees/Main.java) | :green_book: |  Logic  |
 
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
