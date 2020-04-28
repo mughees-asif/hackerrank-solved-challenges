@@ -26,7 +26,7 @@ If running locally, then:
 
 * change directory ```cd hackerrank-solved-challenges``` 
 
-* Run ```Main.java``` with your Java compiler or run the ```main``` method in ```Main.java``` if using an IDE.
+* run ```Main.java``` with your Java compiler or run the ```main``` method in ```Main.java``` if using an IDE.
 
 ----------------------------------------------------------------------------------------------
 
