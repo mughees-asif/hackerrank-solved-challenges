@@ -4,7 +4,13 @@
     </a>
   </p>
 
-## Updated daily :alarm_clock:
+# Updated daily :alarm_clock:
+
+## Algorithms and Data Structures
+
+* Refresh <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java.
+
+----------------------------------------------------------------------------------------------
 
 ### Prerequisites
 
@@ -44,11 +50,6 @@ Everyone is more than welcome to contribute to the solutions.
 
 ----------------------------------------------------------------------------------------------
 
-## Algorithms and Data Structures
-
-* Implementations of algortihms and data structures in Java: click <a href="https://github.com/mughees-asif/java-algorithms-datastructures">here</a>!
-
-----------------------------------------------------------------------------------------------
 ## Key
 
 | Symbol  | Difficulty Level |  
