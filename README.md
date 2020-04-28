@@ -91,4 +91,6 @@ Everyone is more than welcome to contribute to the solutions.
 |  [1DArray](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/1DArray/src/com/mughees/Main.java)  |  :green_book: |  Arrays  |
 |  [Palindrome check](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/PalindromeCheck/src/com/mughees/Main.java)  |  :green_book: |  Strings  |
 |  [BigDecimal](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/BigDecimal/src/com/mughees/Main.java)  |  :orange_book: |  Datatypes  |
+|  [2DArray](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/2DArray/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+
 
