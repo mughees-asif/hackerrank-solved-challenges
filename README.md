@@ -65,6 +65,8 @@ Everyone is more than welcome to contribute to the solutions.
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DiagonalDifference/src/com/mughees/Main.java)  |  :green_book: |  Arrays |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GradingStudents/src/com/mughees/Main.java)  |  :green_book: |  Logic  |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BreakingRecords/src/com/mughees/Main.java)  |  :green_book: |  Arrays  |
+|  FizzBuzz | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/FizzBuzz/src/com/mughees/Main.java) | :green_book: |  Logic  |
+
 
 
 ### 2. Java practise
