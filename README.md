@@ -73,6 +73,8 @@ Everyone is more than welcome to contribute to the solutions.
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GradingStudents/src/com/mughees/Main.java)  |  :green_book: |  Logic  |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BreakingRecords/src/com/mughees/Main.java)  |  :green_book: |  Arrays  |
 |  FizzBuzz | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FizzBuzz/src/com/mughees/Main.java) | :green_book: |  Logic  |
+|  [BetweenTwoSets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BetweenTwoSets/src/com/mughees/Main.java) | :orange_book: |  Lists  |
+
 
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
