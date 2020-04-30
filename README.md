@@ -8,9 +8,9 @@
 
 ## Algorithms and Data Structures
 
-* Refresh <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java.
+### Getting Started
 
-----------------------------------------------------------------------------------------------
+* Refresh <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java.
 
 ### Prerequisites
 
