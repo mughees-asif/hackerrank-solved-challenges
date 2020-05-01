@@ -75,6 +75,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  FizzBuzz | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FizzBuzz/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [BetweenTwoSets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BetweenTwoSets/src/com/mughees/Main.java) | :orange_book: |  Lists  |
 |  [BirthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayChocolate/src/com/mughees/Main.java) | :green_book: |  Lists  |
+|  [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversion/src/com/mughees/Main.java) | :green_book: |  Strings  |
 
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
