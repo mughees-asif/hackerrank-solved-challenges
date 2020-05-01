@@ -52,6 +52,8 @@ Everyone is more than welcome to contribute to the solutions.
 
 ## Key
 
+* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows to find by name of the challenge or topic-wise.
+
 | Symbol  | Difficulty Level |  
 | ------------- | -------------
 | :green_book: | Easy |
@@ -76,6 +78,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BetweenTwoSets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BetweenTwoSets/src/com/mughees/Main.java) | :orange_book: |  Lists  |
 |  [BirthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayChocolate/src/com/mughees/Main.java) | :green_book: |  Lists  |
 |  [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversion/src/com/mughees/Main.java) | :green_book: |  Strings  |
+|  [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DivisibleSumPairs/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 2. Java practise
 | Challenge  | Status |  Difficulty Level  |  Topic  |
