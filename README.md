@@ -52,7 +52,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ## Key
 
-* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows to find by name of the challenge or topic-wise.
+* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows to search by **name** of the challenge or **topic-wise**.
 
 | Symbol  | Difficulty Level |  
 | ------------- | -------------
@@ -62,7 +62,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ### 1. Algorithm challenges
 
-| Challenge  | Status |  Difficulty Level  |  Topic  |
+| Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
 |  [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/miniMaxChallenge/src/com/mughees/Main.java)  |  :green_book: |  Sorting  |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Staircase/src/com/mughees/Main.java)  |  :green_book: |  Sorting  |
@@ -81,7 +81,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DivisibleSumPairs/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 2. Java practise
-| Challenge  | Status |  Difficulty Level  |  Topic  |
+| Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
 |  [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: |  Scanner class  |
 |  [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut2/src/com/mughees/Main.java)  |  :green_book: |  Scanner class  |
@@ -98,5 +98,4 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Palindrome check](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/PalindromeCheck/src/com/mughees/Main.java)  |  :green_book: |  Strings  |
 |  [BigDecimal](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/BigDecimal/src/com/mughees/Main.java)  |  :orange_book: |  Datatypes  |
 |  [2DArray](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/2DArray/src/com/mughees/Main.java) | :green_book: |  Arrays  |
-
-
+|  [TimeAndDateConversion](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/TimeAndDate/src/com/mughees/Main.java) | :green_book: |  Date Class  |
