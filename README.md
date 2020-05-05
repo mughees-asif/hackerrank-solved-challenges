@@ -79,6 +79,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BirthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BirthdayChocolate/src/com/mughees/Main.java) | :green_book: |  Lists  |
 |  [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversion/src/com/mughees/Main.java) | :green_book: |  Strings  |
 |  [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DivisibleSumPairs/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+|  [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MigratoryBirds/src/com/mughees/Main.java) | :green_book: |  Lists  |
 
 ### 6. Java practise
 | Challenge  | Status |  Level  |  Topic  |
