@@ -1,22 +1,22 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/mughees_asif">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-    </a>
-  </p>
+  <a href="https://www.hackerrank.com/mughees_asif">
+    <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+  </a>
+</p>
 
 # Updated daily :alarm_clock:
 
 ## Algorithms and Data Structures
 
-### Getting Started
+### 1. Review <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java
 
-* Refresh <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java.
+### 2. Getting Started
 
-### Prerequisites
+#### 2.1. Prerequisites
 
 A [HackerRank](https://www.hackerrank.com/) account is recommended to save progress and solutions on the platform. Otherwise, a guest account is also available on HackerRank to run the code.
 
-### Running the code 
+#### 2.2. Running the code 
 
 Simply copy, paste and run the code if running on HackerRank.
 
@@ -30,11 +30,11 @@ If running locally, then:
 
 ----------------------------------------------------------------------------------------------
 
-## Contributing
+### 3. Contributing
 
 Everyone is more than welcome to contribute to the solutions.
 
-### Set-up for [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows):
+#### 3.1. Set-up for [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows):
 
 1. From the main menu, choose <kbd>VCS | Get from Version Control</kbd> > <kbd>Git</kbd> > <kbd>Clone</kbd> > ```https://github.com/mughees-asif/hackerrank-solutions.git```(click Test to make sure that connection to the remote can be established).
 
@@ -50,7 +50,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ----------------------------------------------------------------------------------------------
 
-## Key
+## 4. Key
 
 * hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows to search by **name** of the challenge or **topic-wise**.
 
@@ -60,7 +60,7 @@ Everyone is more than welcome to contribute to the solutions.
 | :orange_book: | Medium |
 | :closed_book: | Hard |
 
-### 1. Algorithm challenges
+### 5. Algorithm challenges
 
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
@@ -80,7 +80,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [TimeConversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversion/src/com/mughees/Main.java) | :green_book: |  Strings  |
 |  [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DivisibleSumPairs/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
-### 2. Java practise
+### 6. Java practise
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
 |  [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: |  Scanner class  |
