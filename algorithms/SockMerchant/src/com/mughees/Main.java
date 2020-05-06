@@ -1,6 +1,7 @@
 package com.mughees;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 public class Main {
 
@@ -8,21 +9,15 @@ public class Main {
         sockMerchant(9, new int[]{1, 1, 3, 1, 2, 1, 3, 3, 3, 3});
     }
 
-    public static void sockMerchant(int n, int[] arr) {
-        HashMap<Integer, Integer> hmap = new HashMap<>();
-        for (int i = 0; i < arr.length; i++) {
-            Integer c = hmap.get(arr[i]);
-            if (hmap.get(arr[i]) == null) hmap.put(arr[i], 1);
-            else hmap.put(arr[i], ++c);
-        }
-        for (Integer i : hmap.keySet()) {
-            Integer cnt = hmap.get(i);
-            if (cnt >= 1) {
-                System.out.println(i + " -> " + cnt);
-            }
-            if (cnt % 2 == 0) {
-                System.out.println(i);
+    public static int sockMerchant(int n, int[] arr) {
+        HashSet<Integer> hashSet = new HashSet<>();
+        int pairs = 0;
+        for (int value : arr) {
+            if (!hashSet.add(value)) {
+                hashSet.remove(value);
+                pairs++;
             }
         }
+        return pairs;
     }
 }
