@@ -1,22 +1,18 @@
 package com.mughees;
 
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        for(int i = 0; i < n; i++) {
-            int num = scanner.nextInt();
-        }
-        scanner.close();
 
-        
     }
 
-//    public static int findDigits(int n) {
-//
-//
-//    }
+    public static int findDigits(int n) {
+        int r = n;
+        int count = 0;
+        while(r > 0){
+            if(r % 10 != 0 && n % (r % 10) == 0) count++;
+            r /= 10;
+        }
+        return count;
+    }
 }
