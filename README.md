@@ -83,6 +83,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SockMerchant/src/com/mughees/Main.java) | :green_book: |  HashSet  |
 |  [PageCount](hackerrank.com/challenges/drawing-book/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PageCount/src/com/mughees/Main.java) | :green_book: |  Loop  |
 |  [CountingValley](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CountingValley/src/com/mughees/Main.java) | :green_book: |  Loops  |
+|  [FindDigits](https://www.hackerrank.com/challenges/find-digits/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FindDigits/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 6. Java practise
 | Challenge  | Status |  Level  |  Topic  |
