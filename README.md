@@ -60,7 +60,7 @@ Everyone is more than welcome to contribute to the solutions.
 | :orange_book: | Medium |
 | :closed_book: | Hard |
 
-### 5. Algorithm challenges
+### 5. Algorithm Challenges
 
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
@@ -85,7 +85,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [CountingValley](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CountingValley/src/com/mughees/Main.java) | :green_book: |  Loops  |
 |  [FindDigits](https://www.hackerrank.com/challenges/find-digits/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FindDigits/src/com/mughees/Main.java) | :green_book: |  Splinter digits  |
 
-### 6. Java practise
+### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
 |  [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: |  Scanner class  |
