@@ -52,7 +52,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ## 4. Key
 
-* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows to search by **name** of the challenge or **topic-wise**.
+* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows & search by **name**/**topic-wise**.
 
 | Symbol  | Difficulty Level |  
 | ------------- | -------------
@@ -85,6 +85,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [CountingValley](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CountingValley/src/com/mughees/Main.java) | :green_book: |  Loops  |
 |  [FindDigits](https://www.hackerrank.com/challenges/find-digits/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FindDigits/src/com/mughees/Main.java) | :green_book: |  Splinter digits  |
 |  [BonAppetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/bonAppetit/src/com/mughees/Main.java) | :green_book: |  Lists  |
+|  [ElectronicsShop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ElectronicsShop/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
