@@ -84,6 +84,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [PageCount](hackerrank.com/challenges/drawing-book/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PageCount/src/com/mughees/Main.java) | :green_book: |  Loop  |
 |  [CountingValley](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CountingValley/src/com/mughees/Main.java) | :green_book: |  Loops  |
 |  [FindDigits](https://www.hackerrank.com/challenges/find-digits/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FindDigits/src/com/mughees/Main.java) | :green_book: |  Splinter digits  |
+|  [BonAppetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BonAppetit/src/com/mughees/Main.java) | :green_book: |  Lists  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
