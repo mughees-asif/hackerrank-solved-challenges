@@ -87,6 +87,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BonAppetit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/bonAppetit/src/com/mughees/Main.java) | :green_book: |  Lists  |
 |  [ElectronicsShop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ElectronicsShop/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [CatAndMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CatAndMouse/src/com/mughees/Main.java) | :green_book: |  Logic  |
+|  [SequenceEquation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SequenceEquation/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
