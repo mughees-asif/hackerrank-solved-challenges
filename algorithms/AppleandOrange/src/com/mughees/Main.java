@@ -1,5 +1,6 @@
 package com.mughees;
 
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
@@ -21,17 +22,17 @@ public class Main {
 
         // check if apple falls within region
         int[] apple = new int[m];
-        for(int i=0; i < m; i++){
+        for (int i = 0; i < m; i++) {
             apple[i] = in.nextInt();
-            if( apple[i] + a >= s && apple[i] + a <= t)
+            if (apple[i] + a >= s && apple[i] + a <= t)
                 num1++;
         }
 
         // check if orange falls within region
         int[] orange = new int[n];
-        for(int j=0; j < n; j++){
+        for (int j = 0; j < n; j++) {
             orange[j] = in.nextInt();
-            if( orange[j] + b >= s && orange[j] + b <= t)
+            if (orange[j] + b >= s && orange[j] + b <= t)
                 num2++;
         }
 
