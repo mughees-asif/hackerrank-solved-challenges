@@ -90,6 +90,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [SequenceEquation](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SequenceEquation/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [JumpingOnTheCloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CloudJump/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [HurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HurdleRace/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+|  [DesignerPDFViewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DesignerPDFViewer/src/com/mughees/Main.java) | :green_book: |  Strings  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
