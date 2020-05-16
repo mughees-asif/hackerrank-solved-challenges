@@ -91,6 +91,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [JumpingOnTheCloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CloudJump/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [HurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HurdleRace/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [DesignerPDFViewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DesignerPDFViewer/src/com/mughees/Main.java) | :green_book: |  Strings  |
+|  [AngryProfessor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AngryProfessor/src/com/mughees/Main.java) | :green_book: |  Logic  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
