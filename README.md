@@ -94,6 +94,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [AngryProfessor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AngryProfessor/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [SaveThePrisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SaveThePrisoner/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [CircularArray](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CircularArray/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+|  [#BeautifulDayAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DayAtTheMovies/src/com/mughees/Main.java) | :green_book: |  Int  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
