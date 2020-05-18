@@ -96,6 +96,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [CircularArray](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CircularArray/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [BeautifulDayAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DayAtTheMovies/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [ViralAdvertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ViralAdvertising/src/com/mughees/Main.java) | :green_book: |  Logic  |
+|  [AppendAndDelete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AppendAndDelete/src/com/mughees/Main.java) | :green_book: |  Strings  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
