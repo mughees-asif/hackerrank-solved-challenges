@@ -37,7 +37,7 @@ public class Main {
         }
 
         if (s.length() + t.length() < k) {
-            // We have enough operations left to delete the entire string s and append t.length caharacters
+            // We have enough operations left to delete the entire string s and append t.length characters
             return "Yes";
         }
         return "No";
