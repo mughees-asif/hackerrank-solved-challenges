@@ -97,6 +97,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BeautifulDayAtTheMovies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/DayAtTheMovies/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [ViralAdvertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ViralAdvertising/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [AppendAndDelete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/AppendAndDelete/src/com/mughees/Main.java) | :green_book: |  Strings  |
+|  [SherlockAndSquares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SherlockAndSquares/src/com/mughees/Main.java) | :green_book: |  Square Integer range  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
