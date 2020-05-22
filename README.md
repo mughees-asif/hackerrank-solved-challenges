@@ -100,7 +100,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [SherlockAndSquares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SherlockAndSquares/src/com/mughees/Main.java) | :green_book: |  Square Integer range  |
 |  [LibraryFine](https://www.hackerrank.com/challenges/library-fine/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/LibraryFine/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [RepeatedString](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/RepeatedString/src/com/mughees/Main.java) | :green_book: |  Strings  |
-|  [BeautifulTriplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BeautifulTriplets/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+|  [BeautifulTriplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BeautifulTriplets/src/com/mughees/Main.java) | :green_book: |  BinarySearch  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |

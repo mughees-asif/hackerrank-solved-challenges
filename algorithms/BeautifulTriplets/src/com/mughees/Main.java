@@ -15,7 +15,7 @@ public class Main {
             if (Arrays.binarySearch(arr, value + d) >= 0 &&
                     Arrays.binarySearch(arr, value + d * 2) >= 0) {
                 ++beautifulTriplets;
-            }2
+            }
         }
         return beautifulTriplets;
     }
