@@ -9,15 +9,11 @@ public class Main {
     static int jumpingOnClouds(int[] c) {
         int minJumps = 0;
         int i = 0;
-        while(i < c.length - 1) {
-            if (i+2 == c.length || c[i+2] == i) {
-                i++;
-                minJumps++;
-            } else {
-                i += 2;
-                minJumps++;
-            }
+        while(i < c.length - 3) {
+            i += (c[i+2] == 0 ? 2 : 1);
+            minJumps++;
         }
+        minJumps++;
         return minJumps;
     }
 }
