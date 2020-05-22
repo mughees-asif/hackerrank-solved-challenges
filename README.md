@@ -102,7 +102,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [RepeatedString](https://www.hackerrank.com/challenges/repeated-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/RepeatedString/src/com/mughees/Main.java) | :green_book: |  Strings  |
 |  [BeautifulTriplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BeautifulTriplets/src/com/mughees/Main.java) | :green_book: |  BinarySearch  |
 |  [MinimumDistances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MinimumDistances/src/com/mughees/Main.java) | :green_book: |  Distance b/w array index  |
-|  [UtopianTree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/UtopianTree/src/com/mughees/Main.java) | :green_book: |  Ints  |
+|  [UtopianTree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/UtopianTree/src/com/mughees/Main.java) | :green_book: |  Arithematic-Geometric series |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
