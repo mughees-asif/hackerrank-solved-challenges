@@ -6,7 +6,7 @@ public class Main {
         System.out.println(repeatedString("abcac", 10));
     }
 
-    static long repeatedString(String s, long n) {S
+    static long repeatedString(String s, long n) {
         final long quotient = n / s.length(), remainder = n % s.length();
         long counter = 0;
 
