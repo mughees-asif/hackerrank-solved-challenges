@@ -103,6 +103,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BeautifulTriplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BeautifulTriplets/src/com/mughees/Main.java) | :green_book: |  BinarySearch  |
 |  [MinimumDistances](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MinimumDistances/src/com/mughees/Main.java) | :green_book: |  Distance b/w array index  |
 |  [UtopianTree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/UtopianTree/src/com/mughees/Main.java) | :green_book: |  Arithematic-Geometric series |
+|  [JumpingOnTheCloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/JumpingOnTheCloud/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
