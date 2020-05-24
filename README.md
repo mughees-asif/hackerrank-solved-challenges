@@ -105,7 +105,9 @@ Everyone is more than welcome to contribute to the solutions.
 |  [UtopianTree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/UtopianTree/src/com/mughees/Main.java) | :green_book: |  Arithematic-Geometric series |
 |  [JumpingOnTheCloud](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/JumpingOnTheCloud/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [EqualizeTheArray](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/EqualizeTheArray/src/com/mughees/Main.java) | :green_book: |  Arrays  |
-|  [CutTheSticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CuttingSticks/src/com/mughees/Main.java) | :green_book: |  Loops  |
+|  [CutTheSticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CuttingSticks/src/com/mughees/Main.java) | :green_book: |  Dynamics array sizing  |
+|  [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PickingNumbers/src/com/mughees/Main.java) | :green_book: |  Arrays  |
+
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
