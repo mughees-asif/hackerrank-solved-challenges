@@ -1,6 +1,5 @@
 package com.mughees;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -20,6 +19,6 @@ public class Main {
                 if(sum < 0)     count++;
             }
         }
-        System.out.println("count= "+count);
+        System.out.println(count);
     }
 }
