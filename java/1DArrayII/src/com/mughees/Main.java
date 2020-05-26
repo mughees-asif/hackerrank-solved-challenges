@@ -14,8 +14,8 @@ public class Main {
     }
 
     public static boolean isSolvable(int leap, int[] game, int i) {
-        if(i >= game.length)    return true;
-        if(i < 0 || game[i] == 1)   return false;
+        if(i >= game.length)          return true;
+        if(i < 0 || game[i] == 1)     return false;
         game[i] = 1;
 
         return isSolvable(leap, game, i+leap)
