@@ -4,9 +4,7 @@
   </a>
 </p>
 
-# Updated daily :alarm_clock:
-
-## Algorithms and Data Structures
+# Algorithms and Data Structures
 
 ### 1. Review <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java
 
