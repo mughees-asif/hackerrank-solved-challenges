@@ -107,6 +107,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PickingNumbers/src/com/mughees/Main.java) | :green_book: |  Array index + 1 // - 1  |
 |  [HalloweenSale](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HalloweenSale/src/com/mughees/Main.java) | :green_book: |  Min, max  |
 |  [TaumAndB'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TaumAndB'day/src/com/mughees/Main.java) | :green_book: |  Logic  |
+|  [CavityMap](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CavityMap/src/com/mughees/Main.java) | :green_book: |  String  |
 
 
 ### 6. Java Practise
