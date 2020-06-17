@@ -109,7 +109,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [TaumAndB'day](https://www.hackerrank.com/challenges/taum-and-bday/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TaumAndB'day/src/com/mughees/Main.java) | :green_book: |  Logic  |
 |  [CavityMap](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CavityMap/src/com/mughees/Main.java) | :orange_book: |  String[] to int using [][] matrix  |
 |  [ServiceLane](https://www.hackerrank.com/challenges/service-lane/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ServiceLane/src/com/mughees/Main.java) | :green_book: |  Int arrays range : return min from sub-array  |
-
+|  [ManasaStones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ManasaStones/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
