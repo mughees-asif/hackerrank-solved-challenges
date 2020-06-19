@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 	    Scanner scanner = new Scanner(System.in);
+	    
 	    int totalPlayers = scanner.nextInt();
 	    ArrayList<Integer> playerScores = new ArrayList<>();
 	    for(int i = 0; i < totalPlayers; i++) {
@@ -13,19 +14,19 @@ public class Main {
         }
 
 	    int aliceTotalScores = scanner.nextInt();
-	    ArrayList<Integer> aliceArrayList = new ArrayList<>();
+	    ArrayList<Integer> aliceScores = new ArrayList<>();
 	    for(int i = 0; i < aliceTotalScores; i++) {
-	        aliceArrayList.add(scanner.nextInt());
+	        aliceScores.add(scanner.nextInt());
         }
 
-        List<Integer> finalList = new ArrayList<>(playerScores);
+        ArrayList<Integer> finalScores = new ArrayList<>(playerScores);
         for(int i = 0; i < aliceTotalScores; i++) {
-            finalList.add(aliceArrayList.get(i));
-            finalList.sort(Collections.reverseOrder());
-            Set<Integer> set = new LinkedHashSet<>(finalList);
-            finalList.clear();
-            finalList.addAll(set);
-            System.out.println(finalList.indexOf(aliceArrayList.get(i)) + 1);
+            finalScores.add(aliceScores.get(i));
+            finalScores.sort(Collections.reverseOrder());
+            Set<Integer> set = new LinkedHashSet<>(finalScores);
+            finalScores.clear();
+            finalScores.addAll(set);
+            System.out.println(finalScores.indexOf(aliceScores.get(i)) + 1);
         }
     }
 }
