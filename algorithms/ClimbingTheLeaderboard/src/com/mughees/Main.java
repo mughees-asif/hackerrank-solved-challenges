@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 	    Scanner scanner = new Scanner(System.in);
-	    
+
 	    int totalPlayers = scanner.nextInt();
 	    ArrayList<Integer> playerScores = new ArrayList<>();
 	    for(int i = 0; i < totalPlayers; i++) {
