@@ -111,6 +111,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ServiceLane](https://www.hackerrank.com/challenges/service-lane/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ServiceLane/src/com/mughees/Main.java) | :green_book: |  Int arrays range : return min from sub-array  |
 |  [ManasaStones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ManasaStones/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [ClimbingTheLeaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ClimbingTheLeaderboard/src/com/mughees/Main.java) | :orange_book: |  ArrayLists +/- |
+|  [ModifiedKaprekarNumbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ModifiedKaprekarNumbers/src/com/mughees/Main.java) | :green_book: | Print Kaprekar numbers within a given range |
 
 
 ### 6. Java Practise
