@@ -113,6 +113,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ClimbingTheLeaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ClimbingTheLeaderboard/src/com/mughees/Main.java) | :orange_book: |  ArrayLists +/- |
 |  [ModifiedKaprekarNumbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ModifiedKaprekarNumbers/src/com/mughees/Main.java) | :orange_book: | Print Kaprekar numbers within a given range, convert numbers to String and back |
 |  [ChocolateFeast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ChocolateFeast/src/com/mughees/Main.java) | :green_book: |  Math  |
+|  [Lisa'sWorkbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/LisaWorkbook/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 
 
 ### 6. Java Practise
