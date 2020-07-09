@@ -114,7 +114,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ModifiedKaprekarNumbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ModifiedKaprekarNumbers/src/com/mughees/Main.java) | :orange_book: | Print Kaprekar numbers within a given range, convert numbers to String and back |
 |  [ChocolateFeast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ChocolateFeast/src/com/mughees/Main.java) | :green_book: |  Math  |
 |  [Lisa'sWorkbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/LisaWorkbook/src/com/mughees/Main.java) | :orange_book: |  Loop through an array and split each `arr[i]` to determine how many `i` elements fit on one page |
-
+|  [FlatLandSpaceStations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FlatLand/src/com/mughees/Main.java) | :green_book: |  Math  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
