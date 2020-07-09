@@ -112,6 +112,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ManasaStones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ManasaStones/src/com/mughees/Main.java) | :green_book: |  Arrays  |
 |  [ClimbingTheLeaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ClimbingTheLeaderboard/src/com/mughees/Main.java) | :orange_book: |  ArrayLists +/- |
 |  [ModifiedKaprekarNumbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ModifiedKaprekarNumbers/src/com/mughees/Main.java) | :orange_book: | Print Kaprekar numbers within a given range, convert numbers to String and back |
+|  [ChocolateFeast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ChocolateFeast/src/com/mughees/Main.java) | :green_book: |  Math  |
 
 
 ### 6. Java Practise
