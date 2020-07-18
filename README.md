@@ -115,6 +115,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ChocolateFeast](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ChocolateFeast/src/com/mughees/Main.java) | :green_book: |  Math  |
 |  [Lisa'sWorkbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/LisaWorkbook/src/com/mughees/Main.java) | :orange_book: |  Loop through an array and split each `arr[i]` to determine how many `i` elements fit on one page |
 |  [FlatLandSpaceStations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FlatLand/src/com/mughees/Main.java) | :green_book: |  minus `arr[i]` from `i`, and if `arr[i] > midpoint`, minus from `arr.length - 1`  |
+|  [HackerRankInAString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HackerRankInString/src/com/mughees/Main.java) | :green_book: |  compare with the word *HackerRank*  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
