@@ -70,7 +70,7 @@ class Comparator {
 }
 
 class A {
-    static int add(int i, int j) {
+    int add(int i, int j) {
         return i + j;
     }
 }
