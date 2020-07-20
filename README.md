@@ -116,7 +116,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Lisa'sWorkbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/LisaWorkbook/src/com/mughees/Main.java) | :orange_book: |  Loop through an array and split each `arr[i]` to determine how many `i` elements fit on one page |
 |  [FlatLandSpaceStations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FlatLand/src/com/mughees/Main.java) | :green_book: |  minus `arr[i]` from `i`, and if `arr[i] > midpoint`, minus from `arr.length - 1`  |
 |  [HackerRankInAString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HackerRankInString/src/com/mughees/Main.java) | :green_book: |  initialise `count = 0` -> compare each *char* of "hackerrank" with given string -> increment `count` -> if `count == "hackerrank".length`, return *"YES"* |
-|  [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |  String  |
+|  [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |  push both given `String` & `{a-z}` to a `TreeSet` -> return `stringTreeSet.equals({a-z}TreeSet)` |
 
 
 ### 6. Java Practise
