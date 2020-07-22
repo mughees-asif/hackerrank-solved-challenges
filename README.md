@@ -126,7 +126,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |  push both given `String` & `{a-z}` to a `TreeSet` -> return `stringTreeSet.equals({a-z}TreeSet)` |
 |  [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CamelCase/src/com/mughees/Main.java) | :green_book: | use `String[] split = givenString.split("[A-Z]") -> return number of array elements |
 |  [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TwoStrings/src/com/mughees/Main.java) | :green_book: | boolean check if there is a common `Character` or not |
-|  [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TwoStrings/src/com/mughees/Main.java) | :closed_book: | I copied this from the [forum](https://www.hackerrank.com/challenges/maximum-palindromes/forum) -> TL;DR  |
+|  [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MaximumPalindromes/src/com/mughees/Main.java) | :closed_book: | I copied this from the [forum](https://www.hackerrank.com/challenges/maximum-palindromes/forum) -> TL;DR  |
 
 
 ### 6. Java Practise
