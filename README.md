@@ -125,7 +125,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [HackerRankInAString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HackerRankInString/src/com/mughees/Main.java) | :green_book: |  initialise `count = 0` -> compare each *char* of "hackerrank" with given string -> increment `count` -> if `count == "hackerrank".length`, return *"YES"* |
 |  [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |  push both given `String` & `{a-z}` to a `TreeSet` -> return `stringTreeSet.equals({a-z}TreeSet)` |
 |  [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CamelCase/src/com/mughees/Main.java) | :green_book: | use `String[] split = givenString.split("[A-Z]") -> return number of array elements |
-|  [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TwoStrings/src/com/mughees/Main.java) | :green_book: |  |
+|  [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TwoStrings/src/com/mughees/Main.java) | :green_book: | boolean check if there is a common `Character` or not |
+|  [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TwoStrings/src/com/mughees/Main.java) | :orange_book: |  |
 
 
 ### 6. Java Practise
