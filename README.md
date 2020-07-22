@@ -124,7 +124,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [FlatLandSpaceStations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FlatLand/src/com/mughees/Main.java) | :green_book: |  minus `arr[i]` from `i`, and if `arr[i] > midpoint`, minus from `arr.length - 1`  |
 |  [HackerRankInAString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HackerRankInString/src/com/mughees/Main.java) | :green_book: |  initialise `count = 0` -> compare each *char* of "hackerrank" with given string -> increment `count` -> if `count == "hackerrank".length`, return *"YES"* |
 |  [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |  push both given `String` & `{a-z}` to a `TreeSet` -> return `stringTreeSet.equals({a-z}TreeSet)` |
-|  [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pangrams/src/com/mughees/Main.java) | :green_book: |   |
+|  [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/CamelCase/src/com/mughees/Main.java) | :green_book: | use `String[] split = givenString.split("[A-Z]") -> return number of array elements |
 
 
 ### 6. Java Practise
