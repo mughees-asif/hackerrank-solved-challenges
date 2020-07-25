@@ -129,6 +129,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [MaximumPalindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MaximumPalindromes/src/com/mughees/Main.java) | :closed_book: | I copied this from the [forum](https://www.hackerrank.com/challenges/maximum-palindromes/forum) -> TL;DR  |
 |  [StringConstruction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/StringConstruction/src/com/mughees/Main.java) | :green_book: | push each `char` in given `String` onto a `HashSet` -> return `HashSet.size()` |
 |  [TimeInWords](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversionMedium/src/com/mughees/Main.java) | :orange_book: | logic |
+|  [SherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SherlockValidString/src/com/mughees/Main.java) | :orange_book: | logic |
+
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
