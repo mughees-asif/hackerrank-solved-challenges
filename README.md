@@ -10,6 +10,8 @@
 
 ### 1. Review <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java
 
+----------------------------------------------------------------------------------------------
+
 ### 2. Getting Started
 
 #### 2.1. Prerequisites
