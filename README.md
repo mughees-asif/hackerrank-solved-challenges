@@ -127,7 +127,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [StringConstruction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/StringConstruction/src/com/mughees/Main.java) | :green_book: | push each `char` in given `String` onto a `HashSet` -> return `HashSet.size()` |
 |  [TimeInWords](https://www.hackerrank.com/challenges/the-time-in-words/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TimeConversionMedium/src/com/mughees/Main.java) | :orange_book: | logic |
 |  [SherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SherlockValidString/src/com/mughees/Main.java) | :orange_book: | great solution from [here](https://stackoverflow.com/questions/51569165/sherlock-and-the-valid-string-giving-me-wrong-results-in-5-test-cases), **Java 11** |
-|  [FairRations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FairRations/src/Solution.java) | :green_book: |  |
+|  [FairRations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FairRations/src/Solution.java) | :green_book: | check if `breadLoaves[i] == odd`, if condition is `true`, add `1` to `breadLoaves[i] && breadLoaves[i + 1]` |
 
 
 ### 6. Java Practise

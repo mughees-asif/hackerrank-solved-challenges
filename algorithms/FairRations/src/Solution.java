@@ -13,7 +13,7 @@ public class Solution {
             breadLoaves[i] = scanner.nextInt();
             sum += breadLoaves[i];
         }
-        
+
         if (sum % 2 != 0) {
             System.out.println("NO");
         } else {
