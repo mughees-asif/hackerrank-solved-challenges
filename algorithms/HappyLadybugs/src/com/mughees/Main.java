@@ -15,6 +15,25 @@ public class Main {
             int n = in.nextInt();
             String b = in.next();
 
+            /*
+            Program logic flow:
+            --------------------
+            find frequencies of all letters
+
+            if all frequencies are >= 2 and a _ is present
+                YES
+
+            else if they are >= 2 and no _ is present
+                if it is already ordered
+                    YES
+                else
+                    NO
+
+            else
+                NO
+            --------------------
+             */
+
             HashMap<Character, Integer> colorFreq = new HashMap<>();
             for (int i = 0; i < b.length(); i++) {
                 Character letter = b.charAt(i);
