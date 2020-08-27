@@ -16,8 +16,6 @@ public class Main {
             String b = in.next();
 
             HashMap<Character, Integer> colorFreq = new HashMap<>();
-
-            //Find frequency of each Letter
             for (int i = 0; i < b.length(); i++) {
                 Character letter = b.charAt(i);
                 if (colorFreq.containsKey(letter)) {
@@ -28,7 +26,7 @@ public class Main {
             }
 
             for (Map.Entry<Character, Integer> frequency : colorFreq.entrySet()) {
-                if (frequency.getValue() < 2 && !frequency.getKey().equals((Character) '_')) {
+                if (frequency.getValue() < 2 && !frequency.getKey().equals('_')) {
                     System.out.println("NO");
                     continue tests;
                 }
