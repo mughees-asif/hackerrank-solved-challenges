@@ -129,6 +129,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [SherlockAndTheValidString](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SherlockValidString/src/com/mughees/Main.java) | :orange_book: | great solution from [here](https://stackoverflow.com/questions/51569165/sherlock-and-the-valid-string-giving-me-wrong-results-in-5-test-cases), **Java 11** |
 |  [FairRations](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FairRations/src/Solution.java) | :green_book: | check if `breadLoaves[i] == odd`, if condition is `true`, add `1` to `breadLoaves[i] && breadLoaves[i + 1]` |
 |  [HappyLadybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HappyLadybugs/src/com/mughees/Main.java) | :green_book: | use `HashMap` to check the frequency of each `char` -> check the code for explanation |
+|  [InsertionSort](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/InsertionSort/src/com/mughees/Main.java) | :green_book: | good ol' [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
