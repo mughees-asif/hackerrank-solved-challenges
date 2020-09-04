@@ -19,11 +19,13 @@ public class Main {
         int right = 0;
 
         while (right < sizeOfArr) {
-            if (arr[right] - arr[left] == targetValue) {
+            int difference = arr[right] - arr[left];
+
+            if (difference == targetValue) {
                 count++;
                 left++;
                 right++;
-            } else if (arr[right] - arr[left] > targetValue) {
+            } else if (difference > targetValue) {
                 left++;
             } else {
                 right++;
