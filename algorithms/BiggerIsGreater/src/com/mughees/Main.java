@@ -38,10 +38,10 @@ public class Main {
                     nextSmallChar = startIndex;
                 }
             }
-
             swap(inputStringArr, endIndex -1, nextSmallChar);
         }
-        return Arrays.toString(inputStringArr);
+
+        return new String(inputStringArr);
     }
 
     static void swap (char[] input, int index, int smallestChar) {
