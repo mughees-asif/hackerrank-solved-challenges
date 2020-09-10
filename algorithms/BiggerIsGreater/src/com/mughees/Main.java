@@ -1,13 +1,28 @@
 package com.mughees;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println(biggerIsGreater("ab"));
     }
 
     static String biggerIsGreater(String w) {
-        
-    return "no answer";
+        char[] inputStringArr = w.toCharArray();
+        int length = inputStringArr.length;
+        int endIndex = 0;
+
+        // start from the right most char to find the first char which
+        // is smaller than the previous char
+        for(endIndex = length - 1; endIndex > 0; endIndex--) {
+            if(inputStringArr[endIndex] > inputStringArr[endIndex - 1]) {
+                break;
+            }
+        }
+
+        // if no 
+
+        return w;
     }
 }
