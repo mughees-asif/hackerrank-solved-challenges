@@ -38,9 +38,14 @@ public class Main {
                     nextSmallChar = startIndex;
                 }
             }
-            swap(inputStringArr, endIndex -1, nextSmallChar);
-        }
 
+            // swap the next smallest char with inputStringArr[endIndex - 1]
+            swap(inputStringArr, endIndex -1, nextSmallChar);
+
+            // sort the half of the inputStringArr (after [endIndex - 1]) in
+            // ascending order
+            Arrays.sort(inputStringArr, endIndex, length);
+        }
         return new String(inputStringArr);
     }
 
