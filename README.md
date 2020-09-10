@@ -131,7 +131,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [HappyLadybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/HappyLadybugs/src/com/mughees/Main.java) | :green_book: | use `HashMap` to check the frequency of each `char` -> check the code for explanation |
 |  [InsertionSort](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/InsertionSort/src/com/mughees/Main.java) | :green_book: | good ol' [Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/) |
 |  [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pairs/src/com/mughees/Main.java) | :orange_book: | using the [two-pointer method](https://leetcode.com/articles/two-pointer-technique/) -> `Arrays.sort(arr)` -> two pointers; `left & right` -> `difference = arr[left] - arr[right]` -> logic statement to decide which pointer to increment, when |
-|  [Triple Sum](https://www.hackerrank.com/challenges/triple-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TripleSum/src/com/mughees/Main.java) | :orange_book: | self-explanatory |
+|  [TripleSum](https://www.hackerrank.com/challenges/triple-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TripleSum/src/com/mughees/Main.java) | :orange_book: | self-explanatory |
+|  [BiggerIsGreater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BiggerIsGreater/src/com/mughees/Main.java) | :orange_book: |  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
