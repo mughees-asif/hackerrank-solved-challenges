@@ -1,36 +1,29 @@
 package com.mughees;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
-	    Scanner scanner = new Scanner(System.in);
-	    int numOfEmptyJars = scanner.nextInt();
-	    int operations = scanner.nextInt();
-	    int[] candyArray = new int[numOfEmptyJars];
+        Scanner scanner = new Scanner(System.in);
+        int numOfEmptyJars = scanner.nextInt();
+        int operations = scanner.nextInt();
+        int[] candyArray = new int[numOfEmptyJars];
 
-	    for(int i = 0; i < operations; i++) {
-	        int firstInput = scanner.nextInt();
-	        int secondInput = scanner.nextInt();
-	        int numOfCandiesAdded = scanner.nextInt();
+        for (int i = 0; i < operations; i++) {
+            int firstInput = scanner.nextInt();
+            int secondInput = scanner.nextInt();
+            int numOfCandiesAdded = scanner.nextInt();
 
-	        for(int j = firstInput; j < secondInput; j++) {
-				candyArray[j - 1] += numOfCandiesAdded;
-
-
-			}
+            for (int j = firstInput - 1; j < secondInput; j++) {
+                candyArray[j] += numOfCandiesAdded;
+            }
         }
-		System.out.println(Arrays.toString(candyArray));
+		double totalJars = candyArray.length;
+		double sum = 0;
+		for (double value : candyArray) {
+			sum += value;
+		}
+		System.out.println(Math.floor(sum / totalJars));
     }
-
-//	static int solve(int n, int[][] operations) {
-//		int average = 0;
-//		for(int wholeArrayIndex = 0; wholeArrayIndex < )
-//
-//
-//	}
-
-
 }
