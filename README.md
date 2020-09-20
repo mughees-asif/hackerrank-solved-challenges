@@ -133,8 +133,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/Pairs/src/com/mughees/Main.java) | :orange_book: | using the [two-pointer method](https://leetcode.com/articles/two-pointer-technique/) -> `Arrays.sort(arr)` -> two pointers; `left & right` -> `difference = arr[left] - arr[right]` -> logic statement to decide which pointer to increment and when |
 |  [TripleSum](https://www.hackerrank.com/challenges/triple-sum/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TripleSum/src/com/mughees/Main.java) | :orange_book: | self-explanatory |
 |  [BiggerIsGreater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BiggerIsGreater/src/com/mughees/Main.java) | :orange_book: | check the comments on the code for a detailed explanation  |
-|  [ACM_ICPC_Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ICPCTeam/src/com/mughees/Main.java) | :orange_book: |   |
-
+|  [ACM_ICPC_Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ICPCTeam/src/com/mughees/Main.java) | :orange_book: | logic |
+|  [FillingJars](https://www.hackerrank.com/challenges/filling-jars/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ICPCTeam/src/com/mughees/Main.java) | :green_book: |  |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
