@@ -135,7 +135,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [BiggerIsGreater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BiggerIsGreater/src/com/mughees/Main.java) | :orange_book: | check the comments on the code for a detailed explanation  |
 |  [ACM_ICPC_Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/ICPCTeam/src/com/mughees/Main.java) | :orange_book: | logic |
 |  [FillingJars](https://www.hackerrank.com/challenges/filling-jars/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FillingJars/src/com/mughees/Main.java) | :green_book: | very straightforward code |
-|  [IsFibo](https://www.hackerrank.com/challenges/is-fibo/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/IsFibo/src/com/mughees/Main.java) | :orange_book: |  |
+|  [IsFibo](https://www.hackerrank.com/challenges/is-fibo/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/IsFibo/src/com/mughees/Main.java) | :orange_book: | easy to solve using (Ira Gessel's method)[https://mathlesstraveled.com/2016/02/27/testing-fibonacci-numbers-the-proofs/] |
 
 
 ### 6. Java Practise
