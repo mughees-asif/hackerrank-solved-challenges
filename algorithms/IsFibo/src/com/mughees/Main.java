@@ -8,14 +8,12 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int testCases = scanner.nextInt();
-        int numToCheck = 0;
+        long numToCheck;
         for (int i = 0; i < testCases; i++) {
-            numToCheck = scanner.nextInt();
-
-            int[] fibonacciArray = fibonacciArray(numToCheck);
-            Arrays.sort(fibonacciArray);
-
-            int flag = Arrays.binarySearch(fibonacciArray, numToCheck);
+            numToCheck = scanner.nextLong();
+            long[] fibonacci = fibonacciArray(numToCheck);
+            Arrays.sort(fibonacci);
+            long flag = Arrays.binarySearch(fibonacci, numToCheck);
             if(flag > 1) {
                 System.out.println("IsFibo");
             } else {
@@ -24,11 +22,12 @@ public class Main {
         }
     }
 
-    static int[] fibonacciArray(int input) {
+    static long[] fibonacciArray(long input) {
+        input++;
         if (input <= 1) {
-            return new int[]{input};
+            return new long[]{input};
         }
-        int[] result = new int[input + 1];
+        long[] result = new long[(int) (input + 1)];
         result[0] = 0;
         result[1] = 1;
         for (int i = 2; i <= input; i++) {
@@ -36,5 +35,4 @@ public class Main {
         }
         return result;
     }
-
 }
