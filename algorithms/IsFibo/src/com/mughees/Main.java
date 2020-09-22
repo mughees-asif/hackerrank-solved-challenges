@@ -5,19 +5,22 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int t = scanner.nextInt();
-        while (t-- > 0) {
-            double n = scanner.nextDouble();
-            System.out.println(solve(n));
+        int testCases = scanner.nextInt();
+        while (testCases-- > 0) {
+            double numToCheck = scanner.nextDouble();
+            System.out.println(solve(numToCheck));
         }
     }
 
-    static String solve(double n) {
-        // Ira Gessels method to check if a number is 
-        if (isPerfectSquare(5 * n * n - 4) || isPerfectSquare(5 * n * n + 4))
+    // 'n' is a Fibonacci number if and only if  (5 * n * n - 4 || 5 * n * n + 4)
+    // is a perfect square.
+    static String solve(double input) {
+        if (isPerfectSquare(5 * input * input - 4) ||
+                isPerfectSquare(5 * input * input + 4)) {
             return "IsFibo";
-        else
+        } else {
             return "IsNotFibo";
+        }
     }
 
     static boolean isPerfectSquare(double x) {
