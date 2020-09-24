@@ -12,11 +12,11 @@ public class Main {
         }
     }
 
-    // 'n' is a Fibonacci number if and only if  (5 * n * n - 4 || 5 * n * n + 4)
+    // 'n' is a Fibonacci number if and only if  (5 * n^2 - 4 || 5 * n^2 + 4)
     // is a perfect square.
     static String solve(double input) {
-        if (isPerfectSquare(5 * input * input - 4) ||
-                isPerfectSquare(5 * input * input + 4)) {
+        double inputSqaured = input * input;
+        if (isPerfectSquare(5 * inputSqaured - 4) || isPerfectSquare(5 * inputSqaured + 4)) {
             return "IsFibo";
         } else {
             return "IsNotFibo";
