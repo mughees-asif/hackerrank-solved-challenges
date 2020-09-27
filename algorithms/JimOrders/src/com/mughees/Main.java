@@ -24,6 +24,9 @@ public class Main {
             list.set(minIndex, Collections.max(list) + 1);
             resultList.add(minIndex + 1);
         }
-        System.out.println(resultList);
+
+	    for(int value: resultList) {
+            System.out.print(value + " ");
+        }
     }
 }
