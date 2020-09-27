@@ -137,6 +137,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [FillingJars](https://www.hackerrank.com/challenges/filling-jars/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/FillingJars/src/com/mughees/Main.java) | :green_book: | very straightforward code |
 |  [IsFibo](https://www.hackerrank.com/challenges/is-fibo/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/IsFibo/src/com/mughees/Main.java) | :orange_book: | easy to solve using [Ira Gessel's method](https://mathlesstraveled.com/2016/02/27/testing-fibonacci-numbers-the-proofs/) |
 |  [MaxMin](https://www.hackerrank.com/challenges/angry-children/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MaxMin/src/com/mughees/Main.java) | :orange_book: | trick is to sort the array -> then `numArr[target - 1] - numArr[0] = minimumValue` -> all there is left to do is to loop through the array and check each `minArr` of `numArr` |
+|  [MaxMin](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/JimOrders/src/com/mughees/Main.java) | :green_book: |  |
 
 
 ### 6. Java Practise
