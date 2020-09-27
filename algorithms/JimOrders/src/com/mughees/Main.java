@@ -21,8 +21,7 @@ public class Main {
 	    int length = list.size();
 	    for(int i = 0; i < length; i++) {
             int minIndex = list.indexOf(Collections.min(list));
-            System.out.println(list);
-            list.set(minIndex, 0);
+            list.set(minIndex, Collections.max(list) + 1);
             resultList.add(minIndex + 1);
         }
         System.out.println(resultList);
