@@ -22,13 +22,19 @@ public class Main {
         }
         System.out.println(Arrays.toString(arrayB));
 
+        int pointer = 0;
         // rotate array
-        for(int i = 0; i < sizeOfArrays; i++) {
-
+        for (int i = 0; i < sizeOfArrays; i++) {
+            if (arrayA[pointer] + arrayB[i] >= targetToFind) {
+                arrayB[pointer] = arrayB[i];
+                pointer++;
+                System.out.println("Yes");
+            } else {
+                arrayB[i] = arrayB[pointer];
+                System.out.println("No");
+            }
         }
-
-
-
+        System.out.println("arrayA = " + Arrays.toString(arrayA) + ", arrayB = " + Arrays.toString(arrayB));
 
     }
 }
