@@ -21,20 +21,23 @@ public class Main {
             arrayB[i] = scanner.nextInt();
         }
         System.out.println(Arrays.toString(arrayB));
-
         int pointer = 0;
         // rotate array
         for (int i = 0; i < sizeOfArrays; i++) {
-            if (arrayA[pointer] + arrayB[i] >= targetToFind) {
-                arrayB[pointer] = arrayB[i];
-                pointer++;
+            if (arrayA[i] + arrayB[pointer] >= targetToFind) {
+                swap(arrayB, arrayB[pointer], arrayB[i]);
                 System.out.println("Yes");
             } else {
-                arrayB[i] = arrayB[pointer];
+                pointer++;
                 System.out.println("No");
             }
         }
         System.out.println("arrayA = " + Arrays.toString(arrayA) + ", arrayB = " + Arrays.toString(arrayB));
+    }
 
+    static void swap(int[] input, int a, int b) {
+        int temp = input[a];
+        input[a] = input[b];
+        input[b] = temp;
     }
 }
