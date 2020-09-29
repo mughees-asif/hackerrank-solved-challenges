@@ -12,34 +12,30 @@ public class Main {
         List<Integer> arrayA = new ArrayList<>(sizeOfArrays);
         List<Integer> arrayB = new ArrayList<>(sizeOfArrays);
 
-        for (int i = 0; i < sizeOfArrays; i++) {
-            arrayA.add(scanner.nextInt());
-        }
+        for (int index = 0; index < testCases; index++) {
+            for (int i = 0; i < sizeOfArrays; i++) {
+                arrayA.add(scanner.nextInt());
+            }
 //        System.out.println(arrayA);
-        for (int i = 0; i < sizeOfArrays; i++) {
-            arrayB.add(scanner.nextInt());
-        }
+            for (int i = 0; i < sizeOfArrays; i++) {
+                arrayB.add(scanner.nextInt());
+            }
 //        System.out.println(arrayB);
 
-        Collections.sort(arrayA);
-        Collections.reverse(arrayB);
+            Collections.sort(arrayA);
+            Collections.reverse(arrayB);
 
-        String result = "";
+            String result = "";
 
-        for (int i = 0; i < sizeOfArrays; i++) {
-            if (arrayA.get(i) + arrayB.get(i) != targetToFind) {
-                result = "NO";
-                break;
-            } else {
-                result = "YES";
+            for (int i = 0; i < sizeOfArrays; i++) {
+                if (arrayA.get(i) + arrayB.get(i) != targetToFind) {
+                    result = "NO";
+                    break;
+                } else {
+                    result = "YES";
+                }
             }
+            System.out.println(result);
         }
-        System.out.println(result);
     }
-
-
-
-
-//        System.out.println("arrayA = " + arrayA + ", arrayB = " + arrayB);
-
 }
