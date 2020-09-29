@@ -1,7 +1,6 @@
 package com.mughees;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -10,34 +9,37 @@ public class Main {
         int testCases = scanner.nextInt();
         int sizeOfArrays = scanner.nextInt();
         int targetToFind = scanner.nextInt();
-        int[] arrayA = new int[sizeOfArrays];
-        int[] arrayB = new int[sizeOfArrays];
+        List<Integer> arrayA = new ArrayList<>(sizeOfArrays);
+        List<Integer> arrayB = new ArrayList<>(sizeOfArrays);
 
         for (int i = 0; i < sizeOfArrays; i++) {
-            arrayA[i] = scanner.nextInt();
+            arrayA.add(scanner.nextInt());
         }
-        System.out.println(Arrays.toString(arrayA));
+//        System.out.println(arrayA);
         for (int i = 0; i < sizeOfArrays; i++) {
-            arrayB[i] = scanner.nextInt();
+            arrayB.add(scanner.nextInt());
         }
-        System.out.println(Arrays.toString(arrayB));
-        int pointer = 0;
-        // rotate array
+//        System.out.println(arrayB);
+
+        Collections.sort(arrayA);
+        Collections.reverse(arrayB);
+
+        String result = "";
+
         for (int i = 0; i < sizeOfArrays; i++) {
-            if (arrayA[i] + arrayB[pointer] >= targetToFind) {
-                swap(arrayB, arrayB[pointer], arrayB[i]);
-                System.out.println("Yes");
+            if (arrayA.get(i) + arrayB.get(i) != targetToFind) {
+                result = "NO";
+                break;
             } else {
-                pointer++;
-                System.out.println("No");
+                result = "YES";
             }
         }
-        System.out.println("arrayA = " + Arrays.toString(arrayA) + ", arrayB = " + Arrays.toString(arrayB));
+        System.out.println(result);
     }
 
-    static void swap(int[] input, int a, int b) {
-        int temp = input[a];
-        input[a] = input[b];
-        input[b] = temp;
-    }
+
+
+
+//        System.out.println("arrayA = " + arrayA + ", arrayB = " + arrayB);
+
 }
