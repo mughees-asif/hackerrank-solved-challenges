@@ -1,5 +1,6 @@
 package com.mughees;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -12,7 +13,8 @@ public class Main {
 	    for(int i = 0; i < toyPrices.length; i++) {
 	        toyPrices[i] = scanner.nextInt();
         }
-
+        Arrays.sort(toyPrices);
+	    
 	    int firstPointer = 0;
 	    int secondPointer = 1;
 	    int max = 0;
