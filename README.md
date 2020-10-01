@@ -139,6 +139,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [MaxMin](https://www.hackerrank.com/challenges/angry-children/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MaxMin/src/com/mughees/Main.java) | :orange_book: | trick is to sort the array -> then `numArr[target - 1] - numArr[0] = minimumValue` -> all there is left to do is to loop through the array and check each `minArr` of `numArr` |
 |  [JimAndTheOrders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/JimOrders/src/com/mughees/Main.java) | :green_book: | use two lists -> one for the result of the addition and the other for the `minIndex` -> iterate over result list -> remove the `minIdex` element and store index into another list |
 |  [PermutatingTwoArrays](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PermutatingTwoArrays/src/com/mughees/Main.java) | :green_book: | sort one array ascending, and the other descending -> check each element in one array to the other -> if `!= target`, then a permutation does not exist  |
+|  [MarkAndToys](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: |   |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
