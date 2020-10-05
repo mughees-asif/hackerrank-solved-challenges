@@ -52,7 +52,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ----------------------------------------------------------------------------------------------
 
-## 4. Key
+### 4. Key
 
 * hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows & search by **name**/**topic-wise**.
 
