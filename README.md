@@ -24,9 +24,9 @@ Simply copy, paste and run the code if running on HackerRank.
 
 If running locally, then: 
 
-* clone the repo ```git clone https://github.com/mughees-asif/hackerrank-solved-challenges.git```
+* clone the repo: ```git clone https://github.com/mughees-asif/hackerrank-solved-challenges.git```
 
-* change directory ```cd hackerrank-solved-challenges``` 
+* change directory: ```cd hackerrank-solved-challenges``` 
 
 * run ```Main.java``` with your Java compiler or run the ```main``` method in ```Main.java``` if using an IDE.
 
