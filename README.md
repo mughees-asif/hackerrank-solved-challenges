@@ -14,7 +14,7 @@
 
 ### 2. Getting Started
 
-#### 2.1. Prerequisites
+#### 2.1. Pre-requisites
 
 A [HackerRank](https://www.hackerrank.com/) account is recommended to save progress and solutions on the platform. Otherwise, a guest account is also available on HackerRank to run the code.
 
