@@ -54,7 +54,7 @@ Everyone is more than welcome to contribute to the solutions.
 
 ### 4. Key
 
-* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows & search by **name**/**topic-wise**.
+* hit <kbd>Ctrl</kbd>+<kbd>F</kbd> on Windows & search by **name**/**topic**.
 
 | Symbol  | Difficulty Level |  
 | ------------- | -------------
