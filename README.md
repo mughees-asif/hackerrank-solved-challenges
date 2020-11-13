@@ -142,7 +142,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [PermutatingTwoArrays](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/PermutatingTwoArrays/src/com/mughees/Main.java) | :green_book: | sort one array ascending, and the other descending -> check each element in one array to the other -> if `!= target`, then a permutation does not exist  |
 |  [MarkAndToys](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: | sort the array -> use [sliding window](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) approach |
 |  [LonelyInteger](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: | push all elements into a `HashMap` -> return `key` with `value = 1` |
-|  [SparseArrays](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SparseArrays/src/com/mughees/Main.java) | :orange_book: |  |
+|  [SparseArrays](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SparseArrays/src/com/mughees/Main.java) | :orange_book: | use a `HashMap` to store occurrences |
 
 ### 6. Java Practise
 | Challenge  | Status |  Level  |  Topic  |
