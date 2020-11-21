@@ -5,7 +5,7 @@ class Node {
     private Node left, right;
 
     // root -> left -> right
-    void preOrder(Node root) {
+    private void preOrder(Node root) {
         if(root == null)    return;
         System.out.println(root.data + " ");
         preOrder(root.left);
@@ -13,7 +13,7 @@ class Node {
     }
 
     // left -> right -> root
-    void postOrder(Node root) {
+    private void postOrder(Node root) {
         if(root == null)    return;
         postOrder(root.left);
         postOrder(root.right);
@@ -21,7 +21,7 @@ class Node {
     }
 
     // left -> root -> right
-    void inOrder(Node root) {
+    private void inOrder(Node root) {
         if(root == null)    return;
         inOrder(root.left);
         System.out.println(root.data + " ");
