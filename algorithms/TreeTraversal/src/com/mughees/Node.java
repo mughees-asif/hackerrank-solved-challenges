@@ -4,6 +4,7 @@ class Node {
     private int data;
     private Node left, right;
 
+    // root -> left -> right
     void preOrder(Node root) {
         if(root == null)    return;
         System.out.println(root.data + " ");
