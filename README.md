@@ -63,7 +63,7 @@ Everyone is more than welcome to contribute to the solutions.
 | :orange_book: | Medium |
 | :closed_book: | Hard |
 
-### 5. Algorithm Challenges
+### 5. Algorithms
 
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
@@ -144,7 +144,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [LonelyInteger](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: | push all elements into a `HashMap` -> return `key` with `value = 1` |
 |  [SparseArrays](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SparseArrays/src/com/mughees/Main.java) | :orange_book: | use a `HashMap` to store occurrences -> print each occurrence |
 
-### 6. Java Practise
+### 6. Java
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
 |  [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/ScannerInOut/src/com/mughees/Main.java)  |  :green_book: |  Scanner class  |
@@ -168,3 +168,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [ValidUsernameRegex](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/Regex/src/com/mughees/Main.java) | :green_book: |  Regex  |
 |  [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/Subarray/src/com/mughees/Main.java) | :green_book: |  Boolean logic  |
 |  [1DArrayII](https://www.hackerrank.com/challenges/java-1d-array/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/java/1DArrayII/src/com/mughees/Main.java) | :orange_book: |  Arrays  |
+
+### 7. Data Structures
+| Challenge  | Status |  Level  |  Topic  |
+| ------------- | ------------- |------------- | ------------- |
+|  TreeTraversal | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TreeTraversal/src/com/mughees/Node.java)  |  :green_book: |  Tree traversals --> preOrder, postOrder, inOrder |
