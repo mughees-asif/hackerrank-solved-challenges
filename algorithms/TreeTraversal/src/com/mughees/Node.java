@@ -12,6 +12,7 @@ class Node {
         preOrder(root.right);
     }
 
+    // left -> right -> root
     void postOrder(Node root) {
         if(root == null)    return;
         postOrder(root.left);
@@ -19,6 +20,7 @@ class Node {
         System.out.println(root.data + " ");
     }
 
+    // left -> root -> right
     void inOrder(Node root) {
         if(root == null)    return;
         inOrder(root.left);
