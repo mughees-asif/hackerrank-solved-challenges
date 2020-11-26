@@ -3,7 +3,7 @@ public class Node {
     int data;
 
     private Node(int item) {
-        key = item;
+        data = item;
         left = right = null;
     }
 
