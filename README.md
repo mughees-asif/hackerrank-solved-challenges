@@ -174,3 +174,4 @@ Everyone is more than welcome to contribute to the solutions.
 | ------------- | ------------- |------------- | ------------- |
 |  TreeTraversal | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TreeTraversal/src/com/mughees/Node.java)  |  :green_book: |  Tree traversals --> preOrder, postOrder, inOrder |
 |  TreeHeight | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TreeHeight/src/Node.java) |  :green_book: | Height of a Binary Tree |
+|  TreeInsert | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TreeInsertion/src/Node.java) |  :green_book: | Insert an element at the start, middle or end |
