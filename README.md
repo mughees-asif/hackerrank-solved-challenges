@@ -51,7 +51,6 @@ Everyone is more than welcome to contribute to the solutions.
 6. I will review it and, if applicable, merge the pull request. 
 
 --------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
 
 ### 4. Key
 
