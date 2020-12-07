@@ -8,7 +8,7 @@
 
 # Algorithms and Data Structures
 
-### 1. Review <a href="https://github.com/mughees-asif/java-algorithms-datastructures">implementations</a> of algorithms and data structures in Java.
+### 1. Review <a href="https://github.com/mughees-asif/java-algorithms-datastructures"> Java implementations</a> of Algorithms and Data Structures.
 
 --------------------------------------------------------------------------------------------
 
