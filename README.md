@@ -142,6 +142,8 @@ Everyone is more than welcome to contribute to the solutions.
 |  [MarkAndToys](https://www.hackerrank.com/challenges/two-arrays/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: | sort the array -> use [sliding window](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7) approach |
 |  [LonelyInteger](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/MarkToys/src/com/mughees/Main.java) | :green_book: | push all elements into a `HashMap` -> return `key` with `value = 1` |
 |  [SparseArrays](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SparseArrays/src/com/mughees/Main.java) | :orange_book: | use a `HashMap` to store occurrences -> print each occurrence |
+|  TowerOfHanoi | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TowerOfHanoi/src/com/mughees/Main.java) | :orange_book: | classic recursion |
+
 
 ### 6. Java
 | Challenge  | Status |  Level  |  Topic  |
