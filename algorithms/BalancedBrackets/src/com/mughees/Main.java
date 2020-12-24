@@ -6,9 +6,9 @@ import java.util.Deque;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(validParanthesis("{}()[]"));
-        System.out.println(validParanthesis("{}(][]"));
-        System.out.println(validParanthesis("{}({[]"));
+        System.out.println(validParanthesis("{[()]}"));
+        System.out.println(validParanthesis("{[(])}"));
+        System.out.println(validParanthesis("{{[[(())]]}}"));
     }
 
     private static String validParanthesis(String input) {
@@ -18,7 +18,7 @@ public class Main {
     private static boolean isValid(String input) {
         Deque<Character> deque = new ArrayDeque<>();
         for (int i = 0; i < input.length(); i++) {
-            // push open brackets onto stack
+            // push opening brackets onto stack
             if (input.charAt(i) == '(' ||
                     input.charAt(i) == '{' ||
                     input.charAt(i) == '[') {
