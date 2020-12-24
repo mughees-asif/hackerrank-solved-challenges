@@ -144,7 +144,7 @@ Everyone is more than welcome to contribute to the solutions.
 |  [SparseArrays](https://www.hackerrank.com/challenges/lonely-integer/problem) | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/SparseArrays/src/com/mughees/Main.java) | :orange_book: | use a `HashMap` to store occurrences -> print each occurrence |
 |  TowerOfHanoi | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/TowerOfHanoi/src/com/mughees/Main.java) | :green_book: | classic recursion |
 |  GenerateBalancedParanthesis | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GenerateBalancedParanthesis/src/com/mughees/Main.java) | :orange_book: | recursion |
-|  BalancedBrackets| [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BalancedBracket/src/com/mughees/Main.java) | :orange_book: | `stack` it up |
+|  BalancedBrackets| [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BalancedBrackets/src/com/mughees/Main.java) | :orange_book: | `stack` it up |
 
 
 
