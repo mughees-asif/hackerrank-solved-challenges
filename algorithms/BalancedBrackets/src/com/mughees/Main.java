@@ -12,26 +12,33 @@ public class Main {
     }
 
     private static String validParanthesis(String input) {
-        return solve(input) ? "YES" : "NO";
+        return isValid(input) ? "YES" : "NO";
     }
 
-    private static boolean solve(String input) {
+    private static boolean isValid(String input) {
         Deque<Character> deque = new ArrayDeque<>();
         for (int i = 0; i < input.length(); i++) {
-            if(input.charAt(i) == '(' || input.charAt(i) == '{' || input.charAt(i) == '[') {
+            // push open brackets onto stack
+            if (input.charAt(i) == '(' ||
+                    input.charAt(i) == '{' ||
+                    input.charAt(i) == '[') {
                 deque.add(input.charAt(i));
             } else {
-                if(deque.isEmpty()) {
+                // no closing bracket match
+                if (deque.isEmpty()) {
                     return false;
                 }
-                if(input.charAt(i) == ')' && deque.peek() != '(' ||
-                        input.charAt(i) == '}' && deque.peek() != '{'||
+                // ensure match
+                if (input.charAt(i) == ')' && deque.peek() != '(' ||
+                        input.charAt(i) == '}' && deque.peek() != '{' ||
                         input.charAt(i) == ']' && deque.peek() != '[') {
                     return false;
                 }
+                // good match
                 deque.pop();
             }
         }
+        // in case unmatched bracket is left in the stack
         return deque.isEmpty();
     }
 }
