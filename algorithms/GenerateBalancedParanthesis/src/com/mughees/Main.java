@@ -19,18 +19,19 @@ public class Main {
 
     // main function
     private static void solve(int open, int close, String output, List<String> result) {
-
         // base condition
         if(open == 0 && close == 0) {
             result.add(output);
         }
 
+        // choice always available
         if(open != 0) {
             String output1 = output;
             output1 += "(";
             solve(open - 1, close, output1, result);
         }
 
+        // choice sometimes available
         if(close > open) {
             String output2 = output;
             output2 += ")";
