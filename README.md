@@ -146,8 +146,6 @@ Everyone is more than welcome to contribute to the solutions.
 |  GenerateBalancedParanthesis | [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/GenerateBalancedParanthesis/src/com/mughees/Main.java) | :orange_book: | recursion |
 |  BalancedBrackets| [Solved](https://github.com/mughees-asif/hackerrank-solved-challenges/blob/master/algorithms/BalancedBrackets/src/com/mughees/Main.java) | :orange_book: | `stack` it up |
 
-
-
 ### 6. Java
 | Challenge  | Status |  Level  |  Topic  |
 | ------------- | ------------- |------------- | ------------- |
